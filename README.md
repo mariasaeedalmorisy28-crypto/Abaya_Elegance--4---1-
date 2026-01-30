@@ -1,4 +1,4 @@
 Project Maria Saeed..
 
-تم اظافه الاستاضفه Domain في مجلد confign
+تم اظافه الاستضافه الـ Domain في مجلد confign داخل الـ database.php
 
